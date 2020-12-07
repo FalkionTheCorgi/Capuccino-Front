@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConstraintLayout Coffe</string>
+    <string name="ingredientes">Ingredientes</string>
+    <string name="ingrediente3">1 colher de chocolate em pó</string>
+    <string name="mleite">100ml leite</string>
+    <string name="dosespresso">1 dose espresso</string>
+    <string name="descricao">Uma simples e perfeitamente estraída dose de espresso misturado com leite fresco e chocolate fazem esta bebida deliciosa</string>
+</resources>
